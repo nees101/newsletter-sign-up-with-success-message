@@ -50,7 +50,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [frontendMentor/@nees101](https://www.frontendmentor.io/challenges/newsletter-signup-form-with-success-message-3FC1AZbNrv/hub)
+- Solution URL: [frontendMentor/@nees101](https://www.frontendmentor.io/solutions/responsive-newsletter-sign-up-form-with-success-message-v_R-p7S2ya)
 - Live Site URL: [github/@nees101](https://nees101.github.io/newsletter-sign-up-with-success-message/)
 
 ## My process
