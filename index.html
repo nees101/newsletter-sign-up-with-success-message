@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon-32x32.png">
+  <!-- Google font -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+
+
+  <!-- CSS Stylesheet -->
+  <link rel="stylesheet" href="styles.css" >
+
+  <title>Frontend Mentor | Newsletter sign-up form with success message</title>
+
+</head>
+<body>
+<main>
+<div class="sign-up-form">
+  <div class="content">
+  <div class="description">
+  <h1>Stay updated!</h1>
+
+  <p>Join 60,000+ product managers receiving monthly updates on:</p>
+<ul>
+<li>Product discovery and building what matters</li>
+  <li>Measuring to ensure updates are a success</li>
+  <li>And much more!</li>
+</ul>
+<form action="">
+  <label for="email">Email address</label> <span class="error">Valid email required</span><br>
+  <input class="email" type="email" name="email" placeholder="email@company.com"><br>
+  <input class="subscribe" type="submit" value="Subscribe to monthly newsletter">
+</form>
+</div>
+<div class="image">
+  <img class="illustration-desktop-img" src="assets/images/illustration-sign-up-desktop.svg" alt="illustration image">
+  <img class="illustration-mobile-img" src="assets/images/illustration-sign-up-mobile.svg" alt="illustration image">
+</div>
+</div>
+</div>
+
+
+<div class="success-message">
+  <img src="assets/images/icon-success.svg" alt="success icon">
+  <h1>Thanks for subscribing!</h1>
+
+  <p>A confirmation email has been sent to <strong>ash@loremcompany.com</strong>.
+  Please open it and click the button inside to confirm your subscription.<p>
+
+  <button class="dismiss-btn btn">Dismiss message</button>
+</div>
+</main>
+
+<footer>
+  <div class="attribution">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
+    Coded by <a href="https://www.neethunair.com">Neethu S. Nair</a>.
+  </div>
+</footer>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="index.js"></script>
+</body>
+</html>
