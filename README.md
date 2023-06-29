@@ -50,8 +50,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [frontendMentor/@nees101](https://www.frontendmentor.io/solutions/responsive-url-shortening-api-using-htmlcss-and-jquery-Ndv_5FYIxb)
-- Live Site URL: [github/@nees101](https://github.com/nees101/newsletter-sign-up-with-success-message)
+- Solution URL: [frontendMentor/@nees101](https://www.frontendmentor.io/challenges/newsletter-signup-form-with-success-message-3FC1AZbNrv/hub)
+- Live Site URL: [github/@nees101](https://nees101.github.io/newsletter-sign-up-with-success-message/)
 
 ## My process
 
