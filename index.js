@@ -22,7 +22,7 @@ $(".subscribe").on("click",function(e){
         else {
             $(".sign-up-form").css("display","none");
           $(".success-message").css("display","block");
-          $(".subscriber").text() = $(".email").val();
+          $(".subscriber").text($(".email").val());
         }
   });
 
